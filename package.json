@@ -1,0 +1,22 @@
+{
+  "name": "constructor_node_wordguess",
+  "version": "1.0.0",
+  "description": "node based hangman game",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/prose34/Constructor_Node_WordGuess.git"
+  },
+  "author": "prose",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/prose34/Constructor_Node_WordGuess/issues"
+  },
+  "homepage": "https://github.com/prose34/Constructor_Node_WordGuess#readme",
+  "dependencies": {
+    "inquirer": "^5.2.0"
+  }
+}
