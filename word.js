@@ -10,3 +10,5 @@ var Letter = require("./letter.js");
 function Word () {
 
 }
+
+module.exports = Word;
